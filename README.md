@@ -40,7 +40,7 @@ Though Thomas High School's overall passing percentage decreased from 90.94% to 
 
 ### Affect on scores by school type
 * Since THS is a chartered school, the average score values and passing percentages follow similar trends to discussed above. 
-*
+
 ## Summary
 
 Overall, only slight changes were seen for the categories that THS fell under. Otherwise, analysis for other schools and grades remain unaltered. 
