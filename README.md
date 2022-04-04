@@ -33,13 +33,13 @@ Though Thomas High School's overall passing percentage decreased from 90.94% to 
 #### After re-analysis:
 ![reanalysis](https://github.com/kamna-gandhi/School_District_Analysis/blob/main/Resources/Reanalysis_SpendingRanges.png)
 
-* Since THS, falls into the $631-$645 per student spending range as shown in the dataframes above, the % overall passing, the average math and reading scores, the percentage passing math and reading and the overall percentage passing all decrease slightly for this spending range. Otherwise, the affect on scores for other spending ranges reamain the same. 
+* Since THS, falls into the $631-$645 per student spending range as shown in the dataframes above, the overall passing percentage, the average math and reading scores, the percentage passing math and reading all decrease slightly for this spending range. Otherwise, the affect on scores for other spending ranges reamain the same. 
 
 ### Affect on scores by school size
 * Scores for medium sized schools decreased and followed similar trends to affect on scores by school spending because THS is a medium sized school.
 
 ### Affect on scores by school type
-* Since THS is a chartered school, the average score values and passing percentages follow similar trends to discussed above. 
+* Since THS is a chartered school, the average score values and passing percentages for chartered schools follow similar trends to discussed above. 
 
 ## Summary
 
