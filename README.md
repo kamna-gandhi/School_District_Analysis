@@ -1,16 +1,16 @@
-#Overview of the Project
+# Overview of the Project
 
-##Purpose
+## Purpose
 
-#####The purpose of the analysis was to help Maria analyze student funding and student test scores. In order to help the school board make budget allocation decisions, school performance in math and reading was compared among the schools based on the amount of funding allocated to each school.Later, it was discovered that scores may be innaccurate for Thomas High School due to academic dishonesty, so data was re-analyzed to see if there were changes to the previous data.
+The purpose of the analysis was to help Maria analyze student funding and student test scores. In order to help the school board make budget allocation decisions, school performance in math and reading was compared among the schools based on the amount of funding allocated to each school.Later, it was discovered that scores may be innaccurate for Thomas High School due to academic dishonesty, so data was re-analyzed to see if there were changes to the previous data.
 
-##Results
+## Results
 
-###How is district summary affected?
+### How is district summary affected?
 
-###Before re-analysis:
+### Before re-analysis:
 ![Original](https://github.com/kamna-gandhi/School_District_Analysis/blob/main/Resources/Original_SchoolDistrictSummary.png)
 
-###After re-analysis:
+### After re-analysis:
 ![Reanalysis](https://github.com/kamna-gandhi/School_District_Analysis/blob/main/Resources/Reanalysis_SchoolDistrictSummary.png
 )
