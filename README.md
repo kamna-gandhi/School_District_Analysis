@@ -25,10 +25,22 @@ Though Thomas High School's overall passing percentage decreased from 90.94% to 
 * Replacing 9th grader scores with NaN has no affect on the scores of other grades at other schools and THS. However, it affects reading and math scores for 9th graders at THS because NaN replaces score values for those who plagarized to 0, which slightly lowered the % of students that passed in the 9th grade.
 
 ### Affect on scores by school spending
-* Since THS falls in the 
+
+#### Before re-analysis:
+![OG](https://github.com/kamna-gandhi/School_District_Analysis/blob/main/Resources/OG_SpendingRanges.png)
+
+
+#### After re-analysis:
+![reanalysis](https://github.com/kamna-gandhi/School_District_Analysis/blob/main/Resources/Reanalysis_SpendingRanges.png)
+
+* Since THS, falls into the $631-$645 per student spending range as shown in the dataframes above, the % overall passing, the average math and reading scores, the percentage passing math and reading and the overall percentage passing all decrease slightly for this spending range. Otherwise, the affect on scores for other spending ranges reamain the same. 
 
 ### Affect on scores by school size
+* Scores for medium sized schools decreased and followed similar trends to affect on scores by school spending because THS is a medium sized school.
 
 ### Affect on scores by school type
+* Since THS is a chartered school, the average score values and passing percentages follow similar trends to discussed above. 
+*
+## Summary
 
-##Summary
+Overall, only slight changes were seen for the categories that THS fell under. Otherwise, analysis for other schools and grades remain unaltered. 
